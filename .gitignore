@@ -1,2 +1,15 @@
 -multuInst
 log/
+*.orig
+simple_BACKUP_1622.html
+simple_BACKUP_1738.html
+simple_BACKUP_1808.html
+simple_BASE_1622.html
+simple_BASE_1738.html
+simple_BASE_1808.html
+simple_LOCAL_1622.html
+simple_LOCAL_1738.html
+simple_LOCAL_1808.html
+simple_REMOTE_1622.html
+simple_REMOTE_1738.html
+simple_REMOTE_1808.html
