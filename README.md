@@ -17,4 +17,4 @@ Please fork this repository and then issue Pull request for review
 This is a simple web project, deployment can be any web server or even local file system
 
 ### Copyright
-2020 Git Training
+2020 Git Training aLL right reserved
