@@ -3,11 +3,10 @@
 
 # TEAM
 	Anand Kumar		Frontend Developer		kumaranand287@gmail.com
-    <name> -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    To all students
 
 # TECHNOLOGY COLOPHON
 
